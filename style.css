@@ -1,0 +1,7 @@
+.red{background-color:aqua;height:200px; width:200px;}
+img{border-radius: 50%;height: 100px;width:100px;padding-right: 10px;}
+.player{display:flex;align-items:center;margin-top: 10px;padding-bottom: 20px;}
+.top-player{display:grid;grid-template-columns: repeat(3,1fr);border-bottom:1px solid rgb(15, 15, 14);width: 1500px;height: 600px;}
+body{background-color: skyblue;}
+nav{background-color: orange;}
+h1{color: blue;}
