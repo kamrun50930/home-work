@@ -11,5 +11,5 @@ h1{color: blue;}
 .container{width: 1300px;height: 900px;background-color: white;}
 .last img{height:300px;width:400px;border-radius:0%;}
 .last{display: grid;grid-template-columns: repeat(3,1fr);height:900px;width:1300px}
-section{margin-top: 10px;align-items: center;width:1300px;margin-left:180px; height:600px;background-color: white;}
-footer{text-align: center;background-color: tomato;}
+section{margin-top: 10px;width:1300px;margin-left:190px; height:600px;background-color: white;}
+footer{text-align: center;background-color: tomato;width:1300px;margin-left: 190px;}
